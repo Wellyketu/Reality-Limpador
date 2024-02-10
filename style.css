@@ -277,23 +277,4 @@ header.scrolled {
 }
 
 
-@media screen and (max-width: 1000px) {
-    .flex {
-        flex-direction: column-reverse;
-    }
 
-    .menu-desktop, .btn-contato {
-        display: none;
-    }
-
-    .btn-botão {
-        text-align: center;
-    }
-
-    /* Adicione a regra para exibir o menu e o botão de contato quando necessário */
-    .menu-mobile {
-        display: block;
-    }
-
-    
-}
